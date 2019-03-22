@@ -1,0 +1,14 @@
+    1  sudo initd 6
+    2  pacman
+    3  man pacman
+    4  pacman
+    5  man pacman
+    6  pacman -i
+    7  ls
+    8  man pacman
+    9  pacman -u
+   10  install pacman
+   11  cd ~/
+   12  git clone https://github.com/fredcsa/CIT173_Lab7.git
+   13  ls
+   14  history > ~/CIT173_Lab7/command-history.txt
